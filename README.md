@@ -5,10 +5,10 @@
 ## 如何使用
 编辑main.py内###设置区
 ``` python
-qq=123456789
-authKey='WDNMD1145141919'
-console_host='114.514.1919.810:2233'
-MineacrftBE_Websocket_port=9999
+qq = 123456789
+authKey = 'WDNMD1145141919'
+console_host = '114.514.1919.810:2233'
+MineacrftBE_Websocket_port = 9999
 ```
 配置并启动 mirai-console（建议稳定挂服务器）
 ``` bash
