@@ -3,7 +3,7 @@
 ## 这是什么
 **在MC中收(发?)QQ消息**
 ## 如何使用
-编辑main.py内###设置区
+编辑 main.py 内设置区
 ``` python
 qq = 123456789
 authKey = 'WDNMD1145141919'
